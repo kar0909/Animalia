@@ -1,0 +1,53 @@
+/*
+selector{
+propiedad :valor
+}
+*/
+/* el body se coloca por que afecta esa zona*/
+body{
+background-image:url("https://img.freepik.com/fotos-premium/fondo-pantalla-koalas-rama-arbol_759095-28859.jpg?w=2000");
+background-repeat: no-repeat; /*para que la imagen no se repita*/
+color:#221f1f;
+background-attachment: fixed;
+background-size: cover;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto Slab', serif;
+ /*tipo de letra*/
+ }
+img{
+width : 200px;  /*anchura , puede ser en pixeles o en porcentaje*/
+height: 200px;   /*altura*/
+}
+/* el punto se utiliza para llamar a la clase*/
+.p-canguros{
+    color: rgb(11, 11, 12);
+}
+.c-animales{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(173, 32, 32);
+}
+.menu{
+    color: blue;
+    display:flex; /*Display es para mover los elementos */
+    flex-direction: column;/*alinearse en columna*/
+    align-items: center;/*alinearse en el centro*/
+}
+
+a{
+    color: rgb(46, 42, 46);
+    text-decoration: none; /* para quitar la linea de abajo o  lo subrayado*/
+    background-color: rgb(186, 220, 223);
+    transition: background-color .5s;
+    }
+      
+ a:hover {
+        background-color: rgb(19, 221, 187);
+      }
+   
+
+
+
+    
