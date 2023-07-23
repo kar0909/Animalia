@@ -1,5 +1,5 @@
 # Animalia🚀
-Clonación de la Interfaz de animales usando HTML y CSS 
+Creación de la Interfaz de animales usando HTML y CSS 
 
 ## Intro 🚀
 Este proyecto consistió en una práctica realizada en el bootcamp de Tecnolochicas Pro, donde se analizaron los componentes de Google y se replicaron a través de tecnologías como HTML y CSS. Donde fue la introduccion hacia estos tipo de lenguajes aprendiendo a usarlos y conociendo cada uno de los elementos y utilidades dentro de Visual Stude Cod 
